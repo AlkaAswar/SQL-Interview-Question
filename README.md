@@ -1,14 +1,5 @@
 # SQL-Interview-Question
-date	         customerid	 product_quantity    	price_per_item	      region	       transaction_id
-09-10-2021	     CC1	         3	                   33	                 E	               1                
-09-10-2021	     CC1	         4	                   22	                 A	               2
-26-12-2020	     CC1	         2	                   111                	F	               3
-27-12-2020	     CC2	         1	                    22	                G	               4
-28-12-2020	     CC2	         4	                   11000	              G	               5
-29-12-2020	     CC3	         2	                    33	                S	               6
-30-12-2020	     CC3	         1	                    22	                S	               7
-09-10-2021	     CC4	         3	                   11000	              E	               8
-10-10-2021	     CC4	         4	                    33	                R	               9
+
 
 Solve both in Python and SQL :
 
